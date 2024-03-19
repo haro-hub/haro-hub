@@ -14,9 +14,9 @@
 <div align="center">  
 <p align="center">
     <a href="https://github.com/haroshinakamura121/github-readme-stats">
-	    <img alt="Haroshi Nakamura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haroshinakamura121&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haroshinakamura121&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="HarashiNakamura" height="230px"/>
-<img src="https://streak-stats.demolab.com?user=haroshinakamura121&theme=tokyonight&hide_border=true&border_radius=0&fire=EB0000&ring=EB0000" alt="Haroshi Nakamura"   style="width: 95%"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haroshinakamura121&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Haroshi Nakamura" />
+     <img src="https://github-readme-stats.vercel.app/api?username=haroshinakamura121&show_icons=true&locale=en&theme=tokyonight" alt="Haroshi Nakamura" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroshinakamura121&&theme=tokyonight" alt="Haroshi Nakamura" />
 
 </p>
 </div>
