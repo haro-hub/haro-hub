@@ -1,7 +1,7 @@
 <a href="https://github.com/haroshinakamura121" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="NextJS" height="50"/></a> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hello!+It's+Me+Haroshi+👋;Full+Stack;Front+End;Backend;ReactJS;NextJS;Bootstrap;Tailwind+CSS;MaterialUI;NodeJS;ExpressJS;MongoDB;Mongoose;Redux;....🚀;.....;)
 
 <div align="center">
-
+<img width="50%" src="./about_img.png" />
 </div>
 
 </td></tr>
@@ -24,21 +24,4 @@
 
 </td></tr>
 </table>
-</div>
-
-##
-
-<details>
-<br/>
-
-#
-
-<div align="center">
-
-#
-
-[![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
-
-#
-
 </div>
