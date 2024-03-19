@@ -72,16 +72,17 @@
 
 <div align="left">    
 <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>     
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
 
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
 
-<a href="https://leafletjs.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" alt="LeafletJS" height="50" /></a> 
-<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.io" height="50" /></a> 
-<a href="https://www.emailjs.com/" target="_blank"><img style="margin: 10px" src="https://www.emailjs.com/logo.png" alt="EmailJS" height="50" /></a> 
-	<a href="https://next-intl-docs.vercel.app/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/inext_logo_icon_170002.png" alt="Internationalization" height="50" /></a>
-	<a href="https://www.npmjs.com/package/next-sitemap" target="_blank"><img style="margin: 10px" src="https://www.pngmart.com/files/7/SEO-Background-PNG.png" alt="Sitemap-Nextjs" height="50" /></a>
-<a href="https://docs.mapbox.com/help/glossary/icon/" target="_blank"><img style="margin: 10px" src="https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png" alt="MapBoxGL" height="50" /></a> 
+<a href="https://leafletjs.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" alt="LeafletJS" height="50" /></a>
+<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.io" height="50" /></a>
+<a href="https://www.emailjs.com/" target="_blank"><img style="margin: 10px" src="https://www.emailjs.com/logo.png" alt="EmailJS" height="50" /></a>
+<a href="https://next-intl-docs.vercel.app/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/inext_logo_icon_170002.png" alt="Internationalization" height="50" /></a>
+<a href="https://www.npmjs.com/package/next-sitemap" target="_blank"><img style="margin: 10px" src="https://www.pngmart.com/files/7/SEO-Background-PNG.png" alt="Sitemap-Nextjs" height="50" /></a>
+<a href="https://docs.mapbox.com/help/glossary/icon/" target="_blank"><img style="margin: 10px" src="https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png" alt="MapBoxGL" height="50" /></a>
+
 </div>
 
 </td></tr>
