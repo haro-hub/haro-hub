@@ -11,15 +11,20 @@
 
 ### 💻 GitHub Profile Stats
 
-<div align="center">  
-<p align="center">
-    <a href="https://github.com/haroshinakamura121/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haroshinakamura121&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Haroshi Nakamura" />
-     <img src="https://github-readme-stats.vercel.app/api?username=haroshinakamura121&show_icons=true&locale=en&theme=tokyonight" alt="Haroshi Nakamura" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroshinakamura121&&theme=tokyonight" alt="Haroshi Nakamura" />
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catruc777&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Catruc Andrei's GitHub status" />
 </p>
-</div>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catruc777&theme=algolia" alt="catruc777" />
+</p>
+
+---
+
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catruc777&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
 
 </td></tr>
 </table>
