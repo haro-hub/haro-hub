@@ -12,17 +12,17 @@
 ### 💻 GitHub Profile Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catruc777&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Catruc Andrei's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haro-hub&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Catruc Andrei's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catruc777&theme=algolia" alt="catruc777" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haro-hub&theme=algolia" alt="haro-hub" />
 </p>
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catruc777&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haro-hub&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
 
